@@ -611,7 +611,7 @@
     "section-matter": "^1.0.0",
     "selfsigned": "^1.10.7",
     "send": "^0.17.1",
-    "serialize-javascript": "^1.9.1",
+    "serialize-javascript": "^2.1.1",
     "serve-static": "^1.14.1",
     "set-value": "^2.0.1",
     "serve-index": "^1.9.1",
