@@ -191,7 +191,7 @@
     "domain-browser": "^1.2.0",
     "dom-converter": "^0.2.0",
     "domhandler": "^2.4.2",
-    "dot-prop": "^4.2.0",
+    "dot-prop": "^5.1.1",
     "duplexify": "^3.7.1",
     "domutils": "^1.7.0",
     "ecc-jsbn": "^0.1.2",
