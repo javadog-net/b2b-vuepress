@@ -549,7 +549,7 @@
     "pretty-time": "^1.1.0",
     "prr": "^1.0.1",
     "pseudomap": "^1.0.2",
-    "prismjs": "^1.17.1",
+    "prismjs": "^1.21.0",
     "private": "^0.1.8",
     "pump": "^3.0.0",
     "proxy-addr": "^2.0.5",
