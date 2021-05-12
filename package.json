@@ -504,7 +504,7 @@
     "portfinder": "^1.0.25",
     "posix-character-classes": "^0.1.1",
     "postcss-calc": "^7.0.1",
-    "postcss": "^7.0.23",
+    "postcss": "^8.2.10",
     "postcss-colormin": "^4.0.3",
     "postcss-convert-values": "^4.0.1",
     "postcss-discard-comments": "^4.0.2",
