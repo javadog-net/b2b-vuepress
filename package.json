@@ -79,7 +79,7 @@
     "browserify-zlib": "^0.2.0",
     "buffer": "^4.9.2",
     "buffer-xor": "^1.0.3",
-    "browserslist": "^4.7.3",
+    "browserslist": "^4.16.5",
     "buffer-json": "^2.0.0",
     "builtin-status-codes": "^3.0.0",
     "cac": "^6.5.3",
