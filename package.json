@@ -150,7 +150,7 @@
     "css-unit-converter": "^1.1.1",
     "cross-spawn": "^6.0.5",
     "css-loader": "^2.1.1",
-    "css-what": "^2.1.3",
+    "css-what": "^5.0.1",
     "cssesc": "^2.0.0",
     "css-tree": "^1.0.0-alpha.37",
     "cssnano": "^4.1.10",
